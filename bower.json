@@ -1,0 +1,20 @@
+{
+  "name": "Site",
+  "homepage": "https://github.com/diosdiogocesar/site-doce-novo-itacolomi",
+  "authors": [
+    "diogo cesar <diogo.cesar.cel@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
