@@ -1,0 +1,22 @@
+{
+  "name": "doce-novo-itacolomi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diosdiogocesar/site-doce-novo-itacolomi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diosdiogocesar/site-doce-novo-itacolomi/issues"
+  },
+  "homepage": "https://github.com/diosdiogocesar/site-doce-novo-itacolomi#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
